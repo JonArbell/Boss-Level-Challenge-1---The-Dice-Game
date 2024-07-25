@@ -9,7 +9,7 @@
 * Simple and intuitive user interface
 
 ## How to Play
-* Click here: https://jonarbell.github.io/Boss-Level-Challenge-1---The-Dice-Game/
+* Click here: https://jonarbell.github.io/Boss-Level-Challenge-1-The-Dice-Game/
 
 ## Project Structure
 * index.html: The main HTML file containing the game structure.
