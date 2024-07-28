@@ -12,10 +12,10 @@
 * Click here: https://jonarbell.github.io/Boss-Level-Challenge-1-The-Dice-Game/
 
 ## Project Structure
-* index.html: The main HTML file containing the game structure.
-* index.css: The CSS file for styling the game.
-* index.js: The JavaScript file containing the game logic and DOM manipulation.
-* img (folder): Images for every dices
+* `index.html`: The main HTML file containing the game structure.
+* `index.css`: The CSS file for styling the game.
+* `index.js`: The JavaScript file containing the game logic and DOM manipulation.
+* `img (folder)`: Images for every dices
 
 ## Technologies Used
 * HTML
