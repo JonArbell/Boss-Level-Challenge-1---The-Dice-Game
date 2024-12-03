@@ -1,4 +1,4 @@
-# Boss-Level-Challenge-1-The-Dice-Game
+# Boss Level Challenge 1 : The Dice Game
 
 ## Description
 * This is a simple Dice Game developed using HTML, CSS, and JavaScript. The game is part of a challenge requirement from Angela's "The Complete 2024 Web Development Bootcamp" on Udemy. In this game, each time a user clicks the webpage, two dice are rolled and their totals are compared. The dice with the higher number wins.
